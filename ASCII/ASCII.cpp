@@ -40,7 +40,7 @@ float smallest(int x, int y, int z) {
 }
 
 //function to read every pixel of image, convert to grayscale, find correspoding brightness value
-//and then map that pixel to a ascii character of matchning brightness. The function has 2 parameters.
+//and then map that pixel to an ascii character of matching brightness. The function has 2 parameters.
 //One parameter is the image file we are processing, the second is the alogorithm desired to convert to grayscale.
 
 void imageProcessor(Mat img2, String algo) {
