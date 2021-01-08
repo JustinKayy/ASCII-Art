@@ -1,7 +1,7 @@
 # ASCII-Art
 
 #### Step 1
-Import the image and resize if necessary using OpenCV.
+Import the image and resize if necessary using an image processing library such as OpenCV.
 
 #### Step 2
 Scan every single pixel in the image and convert them to grayscale, the reason being explained in the next step. A color pixel (RGB) has 
