@@ -32,7 +32,7 @@ Obviously, it takes some time for the compiler to convert the image into ASCII a
 <br /><br />
 ![sceenshot](https://github.com/justinkacherian/ASCII-Art/blob/main/ex-images/Capture2.JPG)
 <br /><br />
-![screenshot](https://github.com/justinkacherian/ASCII-Art/blob/main/ex-images/Capture4.JPG)
+![screenshot](https://github.com/justinkacherian/ASCII-Art/blob/main/ex-images/capture3.png)
 <br /><br />
-![screenshot](https://github.com/justinkacherian/ASCII-Art/blob/main/ex-images/Capture3.JPG)
+![screenshot](https://github.com/justinkacherian/ASCII-Art/blob/main/ex-images/Capture6.JPG)
 <br /><br />
